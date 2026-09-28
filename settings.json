@@ -1,0 +1,11 @@
+{
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticSeverity": {
+        "reportGeneralTypeIssues": "warning",
+        "reportOptionalMemberAccess": "warning",
+        "reportUndefinedVariable": "error",
+        "reportUnusedImport": "warning",
+        "reportUnusedVariable": "warning"
+    }
+}
